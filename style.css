@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    background-color: #dadada;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+    background-color: #e19fff;
+}
+
+header>h1{
+    font-size: 50px;
+    background-color: #e19fff;
+}
+
+header>img{
+    background-color: #e19fff;
+}
+
+header>h3{
+    font-size: 20px;
+    background-color: #e19fff;
+}
+
+.aboutMe, .skills, .exp, .education{
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.aboutMe>h2, .skills>h2, .exp>h2, .education>h2{
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: #ae00ff;;
+}
+
+.exp1{
+    padding-bottom: 20px;
+}
+
+.duration{
+    padding-bottom: 20px;
+}
+
